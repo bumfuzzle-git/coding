@@ -5,7 +5,7 @@ i = int(input("how much money do you have?: "))
 while i >= 2:
 	print("You are rich")
 	i -= 1
-	print("but now you  only have")
+	print("but now you only have")
 	print(i)
 	time.sleep(0.400)
 else:
